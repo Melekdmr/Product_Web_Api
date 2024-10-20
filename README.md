@@ -4,12 +4,21 @@ This project is a Web API designed for managing products. It enables users to pe
 Migration operations allow the database structure to be updated dynamically, facilitating effective data handling.
 
 Features
+
 Create, view, update, and delete products
+
 Database migrations
+
 Swagger support for API interaction
+
 Installation
+
 Clone the repository.
+
 Install the necessary NuGet packages.
+
 Configure the database connection settings in the "appsettings.json" file.
+
 Run the "Update-Database" command in the terminal to create the database.
+
 Start the application.
