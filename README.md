@@ -11,20 +11,3 @@ Features
 
 3.Swagger support for API interaction
 
-Installation
-
-1.Clone the repository.
-
-2.Install the necessary NuGet packages.
-
-3.Configure the database connection settings in the "appsettings.json" file.
-
-## Kurulum
-...
-4. Veritabanını oluşturmak için Paket Yöneticisi Konsolu'nda aşağıdaki komutu çalıştırın:
-
-   ```bash
-   Update-Database 
-
-...
-5.Start the application.
