@@ -5,20 +5,26 @@ Migration operations allow the database structure to be updated dynamically, fac
 
 Features
 
-Create, view, update, and delete products
+1.Create, view, update, and delete products
 
-Database migrations
+2.Database migrations
 
-Swagger support for API interaction
+3.Swagger support for API interaction
 
 Installation
 
-Clone the repository.
+1.Clone the repository.
 
-Install the necessary NuGet packages.
+2.Install the necessary NuGet packages.
 
-Configure the database connection settings in the "appsettings.json" file.
+3.Configure the database connection settings in the "appsettings.json" file.
 
-Run the "Update-Database" command in the terminal to create the database.
+## Kurulum
+...
+4. Veritabanını oluşturmak için Paket Yöneticisi Konsolu'nda aşağıdaki komutu çalıştırın:
 
-Start the application.
+   ```bash
+   Update-Database 
+
+...
+5.Start the application.
