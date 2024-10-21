@@ -5,9 +5,9 @@ Migration operations allow the database structure to be updated dynamically, fac
 
 Features
 
-1.Create, view, update, and delete products
+1.Create, view, update, and delete products.
 
-2.Database migrations
+2.Database migrations.
 
-3.Swagger support for API interaction
+3.Swagger support for API interaction. 
 
