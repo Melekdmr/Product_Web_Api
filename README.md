@@ -9,5 +9,5 @@ Features
 
 2.Database migrations.
 
-3.Swagger support for API interaction. 
+3.Swagger support for API interaction..
 
